@@ -13,7 +13,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="socialshare-minimal.svg">
+   sodipodi:docname="socialshare-minimal.svg"
+   inkscape:export-filename="/home/rkdarst/git/coderefinery-artwork/socialshare/socialshare-minimal.png"
+   inkscape:export-xdpi="160.42"
+   inkscape:export-ydpi="160.42">
   <defs
      id="defs2">
     <clipPath
@@ -357,19 +360,19 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0406055"
+     inkscape:zoom="0.58676362"
      inkscape:cx="409.20015"
      inkscape:cy="222.10916"
      inkscape:document-units="cm"
      inkscape:current-layer="g1406"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1556"
-     inkscape:window-height="830"
-     inkscape:window-x="1423"
-     inkscape:window-y="910"
+     inkscape:window-width="1631"
+     inkscape:window-height="878"
+     inkscape:window-x="1276"
+     inkscape:window-y="908"
      inkscape:window-maximized="0"
      units="cm" />
   <metadata
@@ -685,7 +688,7 @@
            y="-691.71769"><tspan>
 </tspan></tspan><tspan
            x="588.3678"
-           y="-666.71769"><tspan>Workshops as open as your</tspan><tspan
+           y="-666.71769"><tspan>Workshops as open as your</tspan><tspan></tspan><tspan
              y="-666.71769"> </tspan></tspan><tspan
            x="588.3678"
            y="-641.71769"><tspan>science should be.</tspan></tspan></text>

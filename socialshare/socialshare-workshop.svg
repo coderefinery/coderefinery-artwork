@@ -357,9 +357,9 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0668974"
+     inkscape:zoom="0.5607454"
      inkscape:cx="318.47687"
      inkscape:cy="246.78836"
      inkscape:document-units="cm"
@@ -368,8 +368,8 @@
      showgrid="false"
      inkscape:window-width="1602"
      inkscape:window-height="830"
-     inkscape:window-x="1345"
-     inkscape:window-y="966"
+     inkscape:window-x="1377"
+     inkscape:window-y="928"
      inkscape:window-maximized="0"
      units="cm" />
   <metadata
@@ -578,15 +578,15 @@
        transform="matrix(0.35277776,0,0,0.35277776,-69.179767,288.88656)"><tspan
          x="588.3678"
          y="-766.71771"><tspan
-           style="line-height:1.15">Teaching good-enough</tspan><tspan
+           style="line-height:1.15">Teaching good-enough</tspan><tspan></tspan><tspan
            y="-766.71771"> </tspan></tspan><tspan
          x="588.3678"
          y="-743.71769"><tspan
-           style="line-height:1.15">practices for computational</tspan><tspan
+           style="line-height:1.15">practices for computational</tspan><tspan></tspan><tspan
            y="-743.71769"> </tspan></tspan><tspan
          x="588.3678"
          y="-720.71769"><tspan
-           style="line-height:1.15">research.</tspan></tspan></text>
+           style="line-height:1.15">research</tspan></tspan></text>
     <g
        id="g1357"
        style="display:inline">
