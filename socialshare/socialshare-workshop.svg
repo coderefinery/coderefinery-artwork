@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="19cm"
    height="10cm"
    viewBox="0 0 190 99.999997"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="socialshare-workshop.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="socialshare-workshop.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <clipPath
@@ -359,19 +359,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5607454"
-     inkscape:cx="318.47687"
-     inkscape:cy="246.78836"
+     inkscape:zoom="2.2998114"
+     inkscape:cx="382.42266"
+     inkscape:cy="149.36007"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1602"
-     inkscape:window-height="830"
-     inkscape:window-x="1377"
-     inkscape:window-y="928"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
-     units="cm" />
+     units="cm"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -577,16 +580,26 @@
        id="text2104"
        transform="matrix(0.35277776,0,0,0.35277776,-69.179767,288.88656)"><tspan
          x="588.3678"
-         y="-766.71771"><tspan
-           style="line-height:1.15">Teaching good-enough</tspan><tspan></tspan><tspan
-           y="-766.71771"> </tspan></tspan><tspan
+         y="-766.71771"
+         id="tspan752"><tspan
+   style="line-height:1.15"
+   id="tspan750">Teaching good-enough</tspan><tspan
+   y="-766.71771"
+   id="tspan754"> </tspan></tspan><tspan
          x="588.3678"
-         y="-743.71769"><tspan
-           style="line-height:1.15">practices for computational</tspan><tspan></tspan><tspan
-           y="-743.71769"> </tspan></tspan><tspan
+         y="-743.71771"
+         id="tspan758"><tspan
+           style="line-height:1.15"
+           id="tspan756">practices for</tspan><tspan
+           y="-743.71771"
+           id="tspan760"> </tspan></tspan><tspan
          x="588.3678"
-         y="-720.71769"><tspan
-           style="line-height:1.15">research</tspan></tspan></text>
+         y="-720.71771"
+         id="tspan766"><tspan
+   style="line-height:1.15"
+   id="tspan762">computational</tspan> <tspan
+   style="line-height:1.15"
+   id="tspan764">research</tspan></tspan></text>
     <g
        id="g1357"
        style="display:inline">
@@ -691,33 +704,37 @@
        id="text1469"
        transform="matrix(0.35277776,0,0,0.35277776,-69.025603,316.04894)"><tspan
          x="588.3678"
-         y="-766.71771"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">git, GitHub, testing, 
+         y="-766.71771"
+         id="tspan770"><tspan
+           style="line-height:1.25"
+           id="tspan768">Git, GitHub, testing, 
 </tspan></tspan><tspan
          x="588.3678"
-         y="-746.71772"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Jupyter,</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.15;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"> documentation, 
+         y="-746.71771"
+         id="tspan776"><tspan
+           style="line-height:1.25"
+           id="tspan772">Jupyter,</tspan><tspan
+           style="line-height:1.15"
+           id="tspan774"> documentation, 
 </tspan></tspan><tspan
          x="588.3678"
-         y="-727.51772"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.15;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">modular code, social coding, and
+         y="-727.51771"
+         id="tspan780"><tspan
+           style="line-height:1.15"
+           id="tspan778">modular code, social coding,</tspan><tspan
+           y="-727.51771"
+           id="tspan782"> </tspan></tspan><tspan
+         x="588.3678"
+         y="-709.11769"
+         id="tspan786"><tspan
+           style="line-height:1.15"
+           id="tspan784">and
 </tspan></tspan><tspan
          x="588.3678"
-         y="-709.11769"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.15;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">reproducible research
-</tspan></tspan><tspan
-         x="588.3678"
-         y="-690.71767"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.15;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
-</tspan></tspan><tspan
-         x="588.3678"
-         y="-672.31764"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.15;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Next workshop:
-</tspan></tspan><tspan
-         x="588.3678"
-         y="-653.91762"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.15;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">March 21-23 and 28-30, 2023</tspan></tspan></text>
+         y="-690.71766"
+         id="tspan790"><tspan
+           style="line-height:1.15"
+           id="tspan788">reproducible research</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
