@@ -16,6 +16,10 @@ Author of this work is Nina Popa (CREATIVE guru).
 The work is licensed under the
 [Creative Commons Attribution license (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).
 
+## Audiologo 
+
+The audiologo folder contains the licence file for the audio files.
+
 ## See also
 
 https://github.com/coderefinery/presentations - contains other images
