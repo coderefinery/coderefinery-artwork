@@ -24,3 +24,6 @@ The audiologo folder contains the licence file for the audio files.
 
 https://github.com/coderefinery/presentations - contains other images
 used in presentations and the like.
+
+
+https://github.com/coderefinery/posters - contains other images and posters and the like.
